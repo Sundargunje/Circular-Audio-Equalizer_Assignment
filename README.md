@@ -7,7 +7,6 @@ This project implements a fullstack application based on the Pre Interview Assig
 - **Circular Audio Equalizer**: Visualizes audio frequency data in a circular format using Web Audio API and Canvas.
 - **Real-Time Transcription**: Streams audio chunks to Gemini API for immediate transcription via WebSockets.
 - **Responsive UI**: Clean, modern interface with live transcription display.
-- **Website Enhancements**: Suggestions for improving www.prepxl.app.
 
 ## Screenshots
 ### UML Diagram
