@@ -1,0 +1,14 @@
+{
+  "name": "audio-equalizer-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Audio Equalizer and Transcription",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server . -p 3000 -c-1",
+    "dev": "http-server . -p 3000 -c-1 --cors"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

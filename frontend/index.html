@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Circular Audio Equalizer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Circular Audio Equalizer</h1>
+        <canvas id="equalizerCanvas" width="400" height="400"></canvas>
+        <div class="controls">
+            <button id="startBtn">Start Microphone</button>
+            <button id="stopBtn" disabled>Stop</button>
+        </div>
+        <div id="wsStatus" class="status">WebSocket: <strong id="wsState">disconnected</strong></div>
+        <div class="transcription">
+            <h2>Live Transcription</h2>
+            <div id="transcriptionText"></div>
+            <div id="partialText" class="partial"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

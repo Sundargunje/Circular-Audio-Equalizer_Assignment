@@ -1,0 +1,16 @@
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Java
+target/
+*.class
+
+# OS
+.DS_Store
+*.mp4
+*.log
+node_modules/
+target/
