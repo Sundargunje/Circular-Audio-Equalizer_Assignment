@@ -13,10 +13,10 @@ This project implements a fullstack application based on the Pre Interview Assig
 ![UML Diagram](screenshots/uml.png)
 
 ### Circular Audio Equalizer
-![Circular Audio Equalizer](screenshots/equalizer.png)
+![Circular Audio Equalizer](screenshots/equalizer.jpeg)
 
 ### Live Transcription Interface
-![Live Transcription](screenshots/transcription.png)
+![Live Transcription](screenshots/transcription.jpeg)
 
 ## Setup Instructions
 
@@ -87,3 +87,5 @@ AudioEqualizerTranscription/
 
 This project is for educational purposes as part of the Pre Interview Assignment.
 "# Circular-Audio-Equalizer" 
+👤 Author
+Gunje Sundar Kumar Computer Science & Engineering Student
