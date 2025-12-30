@@ -88,7 +88,6 @@ AudioEqualizerTranscription/
 This project is for educational purposes as part of the Pre Interview Assignment.
 "# Circular-Audio-Equalizer" 
 
-## Author
+## 👤 Author
 
-👤 Author
 Gunje Sundar Kumar Computer Science & Engineering Student
